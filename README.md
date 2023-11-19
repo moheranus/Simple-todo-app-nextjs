@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Startedfile:///home/moheranus/Pictures/Screenshots/Screenshot%20from%202023-11-19%2016-04-30.png
+## Getting Started 
+file:///home/moheranus/Pictures/Screenshots/Screenshot%20from%202023-11-19%2016-04-30.png
 ![Screenshot from 2023-11-19 16-03-49](https://github.com/moheranus/Simple-todo-app-nextjs/assets/61871092/785bcd49-4f83-4c1b-b0b8-4b4b6cd36535)
 
 
