@@ -6,6 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![Screenshot from 2023-11-19 16-04-30](https://github.com/moheranus/Simple-todo-app-nextjs/assets/61871092/c4363e41-3a94-463a-8a79-aa98401f7646)
 
 
+file:///home/moheranus/Pictures/Screenshots/Screenshot%20from%202023-11-19%2016-03-49.png
 
 First, run the development server:
 
